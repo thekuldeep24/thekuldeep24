@@ -1,8 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Kuldeep Yaduvanshi
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kuldeepyaduvanshi.vercel.app-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://kuldeepyaduvanshi.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-kuldeepyaduvanshi281@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeepyaduvanshi281@gmail.com)
-
 ---
 
 ## 🎓 About Me
