@@ -77,11 +77,7 @@ Achievements:
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepyaduvanshii&theme=tokyonight&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4&hide_border=true" />
-</p>
 
 ---
 
